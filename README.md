@@ -59,6 +59,8 @@ plt.imshow(image1)
 ## Output:
 
 ### Display the input Image
+![img1](https://user-images.githubusercontent.com/94883876/172667716-b7b9c29b-9dcd-48d6-be7c-463c879f0faf.jpg)
+
 <br>
 <br>
 <br>
@@ -67,6 +69,8 @@ plt.imshow(image1)
 <br>
 
 ### Display the result of Opening
+![img2](https://user-images.githubusercontent.com/94883876/172667745-d82903a3-8eb2-4b49-aa1c-147324a5466c.jpg)
+
 <br>
 <br>
 <br>
@@ -75,6 +79,8 @@ plt.imshow(image1)
 <br>
 
 ### Display the result of Closing
+![img3](https://user-images.githubusercontent.com/94883876/172667784-348358fb-ab36-4e78-97e0-f8d64dcd9c6d.jpg)
+
 <br>
 <br>
 <br>
